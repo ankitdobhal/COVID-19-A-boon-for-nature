@@ -16,9 +16,9 @@ This positive outcome has inspired me to research more on the datasets available
 
 ## Dataset:
 Data is collected from following list of sources.
-1. [World Air Quality Index - WAQI](https://waqi.info/)
-2. [CityMapper Mobility Index](https://www.data.gouv.fr/en/datasets/citymapper-mobility-index/)
-3. [Official Airline Guide - OAG](https://www.oag.com/)
-4. [Federal Reserve System](https://www.federalreserve.gov/data.htm)
+* [World Air Quality Index - WAQI](https://waqi.info/)
+* [CityMapper Mobility Index](https://www.data.gouv.fr/en/datasets/citymapper-mobility-index/)
+* [Official Airline Guide - OAG](https://www.oag.com/)
+* [Federal Reserve System](https://www.federalreserve.gov/data.htm)
 
 
