@@ -21,4 +21,9 @@ Data is collected from following list of sources.
 * [Official Airline Guide - OAG](https://www.oag.com/)
 * [Federal Reserve System](https://www.federalreserve.gov/data.htm)
 
-
+## Dependencies
+Following dependecies should be availble in the system prior to notebook execution and can be installed by running `pip install <dependency name>`
+* `pandas`
+* `numpy`
+* `matplotlib`
+* `seabon`
