@@ -16,8 +16,10 @@ This positive outcome has inspired me to research more on the datasets available
 
 ## Clone
 * Clone the repository using HTTPS: 
+    
     `git clone https://github.com/UtkarshChaurasia/COVID-19-A-boon-for-nature.git`
 * Clone the repository using SSH:   
+    
     `git@github.com:UtkarshChaurasia/COVID-19-A-boon-for-nature.git`
 
 ## Dataset:
