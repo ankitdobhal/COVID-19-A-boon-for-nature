@@ -1,3 +1,11 @@
+# STUDENT CODE-IN 2020
+
+## About
+[Student Code-In](https://scodein.tech) is a global program that helps students grow with Open Source. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
+
+
+
+
 # COVID-19: A Boon for Nature
 
 
