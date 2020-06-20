@@ -44,3 +44,22 @@ Following dependecies should be availble in the system prior to notebook executi
 * `numpy`
 * `matplotlib`
 * `seabon`
+
+## ❤️ Project Admin
+
+
+|**[Utkarsh Chaurasia](https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/)**|
+
+|<a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+
+## ⚡ Mentors
+
+|**[Ankit Dobhal](https://www.linkedin.com/in/ankit-dobhal-aa237015b/)**|
+
+|<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+
+|**[Shivan Kumar]**|
+
+|<img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px">|
