@@ -3,6 +3,7 @@
 ## About
 [Student Code-In](https://scodein.tech) is a global program that helps students grow with Open Source. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of Open Source Projects. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
 
+![Student Code-in](images/Student-Code-In-logo.jpg)
 
 
 
@@ -43,3 +44,22 @@ Following dependecies should be availble in the system prior to notebook executi
 * `numpy`
 * `matplotlib`
 * `seabon`
+
+## ❤️ Project Admin
+
+
+|**[Utkarsh Chaurasia](https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/)**|
+
+|<a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+
+## ⚡ Mentors
+
+|**[Ankit Dobhal](https://www.linkedin.com/in/ankit-dobhal-aa237015b/)**|
+
+|<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+
+|**[Shivan Kumar]**|
+
+|<img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px">|
