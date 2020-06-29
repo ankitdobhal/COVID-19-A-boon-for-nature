@@ -23,13 +23,21 @@ all over the world which has been a major concern over the years.
 ## About
 This positive outcome has inspired me to research more on the datasets available and predict the impact of improved air quality on the overall ecosystem, such as by how far the melting of polar ice will be pushed which was originally predicted at 2100. The positive aspect of this pandemic could be an eye opener to reanalyze the parameters which play a vital role in a healthier environment. This might encourage people to keep the air immaculate once this lockdown is over.
 
-## Clone
+## Contribution
 * Clone the repository using HTTPS: 
     
     `git clone https://github.com/UtkarshChaurasia/COVID-19-A-boon-for-nature.git`
 * Clone the repository using SSH:   
     
     `git@github.com:UtkarshChaurasia/COVID-19-A-boon-for-nature.git`
+* Create a branch
+
+    `git branch <new-branch>`
+* Switch to new-branch
+
+    `git checkout <new-branch>`
+* Commit the changes and create a PR.
+
 
 ## Dataset:
 Data is collected from following list of sources.
