@@ -2,9 +2,11 @@
 
 A moving average model is used for forecasting future values. Rather than using past values of the forecast variable in a regression, it uses the past forecast errors in a regression like model.
 
-X<sub>t</sub> = Z<sub>t</sub> + θ<sub>1</sub>Z<sub>t-1</sub> + θ<sub>2</sub>Z<sub>t-2</sub> + ... + \Theta<sub>q</sub>Z<sub>t-q</sub>
+X<sub>t</sub> = c + Z<sub>t</sub> + θ<sub>1</sub>Z<sub>t-1</sub> + θ<sub>2</sub>Z<sub>t-2</sub> + ... + θ<sub>q</sub>Z<sub>t-q</sub>
 
-where Z<sub>t</sub> is the noise. 
+where X<sub>t</sub> = values of X in current period t
+Z<sub>t</sub> and Z<sub>t-1</sub> = an error which expresses the difference between the observed value for a variable and our estimation
+c = Constant factor
 
 We refer this as an MA(q) model, a Moving Average model of order q.
 
@@ -18,3 +20,6 @@ X<sub>t</sub> = Z<sub>t</sub> + θ<sub>1</sub>Z<sub>t-1</sub> + θ<sub>2</sub>Z<
 
 θ<sub>1</sub>, θ<sub>2</sub> = Weights of the announcements from yesterday and the day before.
 This is a Moving Average Model of order 2 - MA(2)
+
+## Using Moving Averages ##
+Moving 
